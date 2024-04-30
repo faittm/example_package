@@ -20,6 +20,7 @@ classifiers = [
 
 [project.scripts]
 expac = "example_package.cli:main"
+faittm_salstat = "example_package.my_cli:main"
 
 
 [project.urls]
