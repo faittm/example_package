@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-import cv1_ref
+from . import cv1_ref
 import argparse
 
 @dataclass
